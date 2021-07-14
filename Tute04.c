@@ -6,6 +6,9 @@ Do not change the code given in the main() function when you are implementing yo
 
 #include <stdio.h>
 
+int minimum() ;
+maximum() ;
+
 int main() {
    int no1, no2;
    printf("Enter a value for no 1 : ");
