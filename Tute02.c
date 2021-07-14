@@ -34,6 +34,6 @@ int main() {
     amount = 30 * 50 + ( dis - 30 ) * 40 ;
   }
 
-  printf( "\nThe Amout is %.2f " , amount ) ;
+  printf( "\nThe Amount is %.2f " , amount ) ;
   return 0;
 }
